@@ -1,0 +1,37 @@
+body {
+    font-family: "Cardo", sans-serif;
+}
+
+
+h1, h2, h3 {
+    font-family: "Oswald";
+}
+
+h1, h2 {
+    color: #a10eb5;
+}
+
+h3 {
+    color: black;
+}
+
+header h2 {
+    color: white;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-color: black;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
