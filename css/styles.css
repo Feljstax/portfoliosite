@@ -33,6 +33,7 @@ footer h5 {
 }
 
 .jumbotron {
+    margin: 0;
     padding: 30px;
     background-color: black;
 }
@@ -41,4 +42,8 @@ footer h5 {
     padding: 50px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
+}
+
+.navbar {
+    background-color: #901CAD;
 }
