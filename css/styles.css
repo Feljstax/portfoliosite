@@ -20,14 +20,14 @@ header h2 {
     color: white;
 }
 
-footer {
+.site-footer {
     font-family: "Cardo, serif";
     background-color: black;
     color: white;
     padding: 20px 0;
 }
 
-footer h5 {
+.site-footer h5 {
     font-family: "Oswald";
     text-transform: uppercase;
 }
